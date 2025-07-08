@@ -68,27 +68,6 @@ nav a:hover {
   margin-bottom: 30px;
 }
 
-.btn {
-  background-color: #ffcc00;
-  color: #111;
-  padding: 12px 25px;
-  text-decoration: none;
-  border-radius: 5px;
-  font-weight: bold;
-  transition: background 0.3s;
-  display: inline-block;
-}
-
-.btn:hover {
-  background-color: #e6b800;
-}
-
-
-
-
-
-
-
 /* Records Section */
 .records {
   padding: 4rem) 0;
@@ -131,16 +110,6 @@ nav a:hover {
   font-size: 1.2rem;
   margin-bottom: 0.5rem;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 /* Live Updates */
@@ -193,19 +162,6 @@ nav a:hover {
   color: #ffcc00;
   margin-bottom: 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
